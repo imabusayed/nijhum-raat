@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nijhum Raat
+
+This log tracks the cryptographic history and versioning for the song **Nijhum Raat** (nijhum-raat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T10:07:28.366043 | `v1` | `0d56a5c0c1f5aeed9411efe62664d8cc60e439c7ea89b260fe7d1a6644358c94` | `91a885c1bf760f369db5d99c74874a69a1ca0ed5af8767cc5e0ce3b6820b0669` | `2026-05-10_nijhum-raat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
