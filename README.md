@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nijhum-raat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Nijhum Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raat/) |
+| **Get License** | [Get a Licensing Quote for Nijhum Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1234)
 
 ---
 
