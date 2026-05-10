@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nijhum-raat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Nijhum Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raat/) |
+| **Get License** | [Secure Licensing Rights for Nijhum Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nijhum-raat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঝুম রাতের অন্ধকারে জ্বলে ওঠে আমার তৃষ্ণা
+> তোমার উষ্ণ ঠোঁটের ছোঁয়ায় ভুলেছি সব যন্ত্রণা
+> তোমার বুকের গভীর প্রেমে ডুবতে আমি রাজি
+> সব বাধা আজ পেরিয়ে গিয়ে ধরবো আমি বাজি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
